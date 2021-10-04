@@ -25,9 +25,45 @@ body {
 }
 
 nav {
-	margin-left: 1rem;
+	top: 1rem;
+	left: 1rem;
+	z-index: 200;
+}
+
+menu {
+	display: flex;
+	flex-direction: row;
+
+	list-style: none;
+	color: red;
+	font-size: 1rem;
+	margin: 0;
+	padding: 0;
 }
 
 h1 {
 	font-weight: 500;
+	margin: 0;
+	font-size: rem;
+}
+
+/* gSLIDE */
+
+.responsive-google-slides {
+	position: relative;
+	padding-bottom: 57.1%;
+	height: 0;
+	overflow: hidden;
+}
+.responsive-google-slides iframe {
+	border: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
+}
+
+.punch-viewer-body {
+	background: #f5f5f5 !important;
 }
