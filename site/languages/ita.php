@@ -13,5 +13,9 @@ return [
         'contacts' => 'Contatti',
         'connect' => 'Connetti',
         'support' => 'Supporta il nostro lavoro',
+        'mission' => 'La nostra missione',
+        'what' => 'Cosa facciamo',
+        'team' => 'Il nostro team',
+        'money' => 'Come usiamo i soldi'
     ],
 ];

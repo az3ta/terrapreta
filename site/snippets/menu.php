@@ -1,10 +1,10 @@
-<header class="flex flex-row justify-between">
+<header class="flex flex-row justify-between fixed top-0 left-0 w-full p-4">
   <menu class="flex flex-row space-x-2">
 
     <!-- Pages -->
     <?php foreach ($site->children()->listed() as $item): ?>
-    <li class="border border-black px-2 py-1 bg-white hover:bg-green-400">
-        <a <?php e($item->isOpen(), 'aria-current ') ?> href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
+    <li class="border border-black px-2 py-1 bg-white hover:bg-green-400 <?php e($item->isOpen(), ' bg-green-400 ') ?>">
+        <a <?php e($item->isOpen(), 'aria-current" ') ?> href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
     </li>
     <?php endforeach ?>
 

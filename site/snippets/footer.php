@@ -10,8 +10,7 @@
       <!-- Address -->
       <div>
         <h4 class="font-marfa-semibold"><?php echo t('legalAddress') ?></h4>
-        <address class="not-italic"><?= kt($site->address()) ?>
-        </address>
+        <address class="not-italic"><?= kt($site->address()) ?></address>
       </div>
 
       <!-- Contacts -->
@@ -23,18 +22,18 @@
       <!-- Stay in Touch -->
       <div class="flex flex-col">
         <h4 class="font-marfa-semibold"><?php echo t('connect') ?></h4>
-        <a href="#">Are.na</a>
-        <a href="#">Instagram</a>
-        <a href="#">Facebook</a>
-        <a href="#">Newsletter</a>
+        <a href="<?= $site->arena() ?>">Are.na</a>
+        <a href="<?= $site->instagram() ?>">Instagram</a>
+        <a href="<?= $site->facebook() ?>">Facebook</a>
+        <a href="<?= $site->newsletter() ?>">Newsletter</a>
       </div>
 
       <!-- Support Our Work -->
       <div class="flex flex-col">
         <h4 class="font-marfa-semibold"><?php echo t('support') ?></h4>
-        <a href="#">Coinbase</a>
-        <a href="#">Open Collective</a>
-        <a href="#">PayPal</a>
+        <a href="<?= $site->coinbase() ?>">Coinbase</a>
+        <a href="<?= $site->openCollective() ?>">Open Collective</a>
+        <a href="<?= $site->paypal() ?>">PayPal</a>
       </div>
   </footer>
 </body>

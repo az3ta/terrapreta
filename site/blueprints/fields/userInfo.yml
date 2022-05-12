@@ -1,0 +1,24 @@
+type: group
+fields:
+  firstName:
+    type: text
+    required: true
+    width: 1/2
+    label: First Name
+  lastName:
+    type: text
+    required: true
+    width: 1/2
+    label: Last Name
+  jobDescription:
+    label: Job Description
+    width: 1/2
+    type: text
+    required: true
+  role:
+    label: Role in Terrapreta
+    type: text
+    width: 1/2
+  bio:
+    label: Bio
+    type: textarea

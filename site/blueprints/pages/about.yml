@@ -17,5 +17,7 @@ tabs:
             type: textarea
           support:
             type: textarea
+          howMoney:
+            type: textarea
 
   seotab: seo
