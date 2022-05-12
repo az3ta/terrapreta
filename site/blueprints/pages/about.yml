@@ -1,0 +1,21 @@
+title: About
+
+tabs:
+  main:
+    icon: text
+    columns:
+      left:
+        width: 1/2
+        fields:
+          intro:
+            type: textarea
+          mission:
+            type: textarea
+          what:
+            type: textarea
+          team:
+            type: textarea
+          support:
+            type: textarea
+
+  seotab: seo

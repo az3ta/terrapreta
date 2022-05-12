@@ -1,2 +1,106 @@
-preset: pages
-unlisted: true
+title: Terrapreta
+
+tabs:
+  main:
+    icon: text
+    columns:
+      left:
+        width: 1/2
+        fields:
+          headline:
+            type: text
+      right:
+        width: 1/2
+        sections:
+          listed:
+            type: pages
+            headline: Listed Pages
+            help: These pages are shown in the menu.
+            status: listed
+            layout: cardlets
+          unlisted:
+            type: pages
+            headline: Unlisted Pages
+            status: unlisted
+          draft:
+            type: pages
+            headline: Drafts
+            status: draft
+  footer:
+    icon: text
+    columns:
+      legal:
+        width: 1/4
+        fields:
+          col1:
+            type: headline
+            label: Legal
+          legalName:
+            type: text
+            label: Legal Name
+            translate: false
+          organizationType:
+            type: text
+            label: Organization Type
+          country:
+            type: text
+          fiscalCode:
+            type: text
+            label: Fiscal Code
+            translate: false
+      address:
+        width: 1/4
+        fields:
+          col2:
+            type: headline
+            label: Address
+          legalAddress:
+            type: textarea
+            size: small
+            label: Legal Address
+      contacts:
+        width: 1/4
+        fields:
+          col3:
+            type: headline
+            label: Contact
+          email:
+            type: email
+            translate: false
+      connect:
+        width: 1/4
+        fields:
+          col4:
+            type: headline
+            label: Connect
+          arena:
+            type: url
+            label: Are.na
+            translate: false
+          instagram:
+            type: url
+            translate: false
+          facebook:
+            type: url
+            translate: false
+          newsletter:
+            type: url
+            translate: false
+      support:
+        width: 1/4
+        fields:
+          col5:
+            type: headline
+            label: Support
+          coinbase:
+            type: url
+            translate: false
+          openCollective:
+            type: url
+            translate: false
+            label: Open Collective
+          paypal:
+            type: url
+            translate: false
+            label: PayPal
+  seotab: seo

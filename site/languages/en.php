@@ -9,6 +9,9 @@ return [
     ],
     'name' => 'English',
     'translations' => [
-
+        'legalAddress' => 'Legal Address',
+        'contacts' => 'Contacts',
+        'connect' => 'Connect',
+        'support' => 'Support Our Work',
     ],
 ];
