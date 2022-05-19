@@ -1,24 +1,12 @@
-Title: Terrapreta
+Title: Glossary
 
 ----
 
-Headline: Nonprofit organization developing Nature-Based Solutions for & within urban communities
+Slug: glossary
 
 ----
 
-Organizationtype: Nonprofit Organization
-
-----
-
-Country: Registred in Italy
-
-----
-
-Legaladdress:
-
-Via Mussi 22
-2154 Milan
-Italy
+Glossary: 
 
 ----
 
@@ -150,12 +138,4 @@ Robots-nosnippet:
 
 ----
 
-Address:
-
-via Mussi 22
-2154 Milan
-Italy
-
-----
-
-Registred: Registred in Italy
+Text: 

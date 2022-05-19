@@ -19,5 +19,6 @@ tabs:
             type: textarea
           howMoney:
             type: textarea
+            label: How do we use money
 
   seotab: seo

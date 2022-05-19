@@ -1,0 +1,153 @@
+Title: Glossario
+
+----
+
+Glossary:
+
+- 
+  term: Albero Madre
+  definition: 'Sono gli esemplari più anziani, attorno ai quali si organizzano le reti sotterranee di radici e micorrize. Questi alberi monumentali, essendo più alti e immagazzinando maggior luce solare, si occupano di inviare il loro carbonio agli alberi più giovani, anche di altre specie, affinché si preservi la biodiversità. [dagli studi di Suzanne Simard, professoressa di Ecologia Forestale alla University of British Columbia (Canada)].'
+  image: [ ]
+  seealso: "1"
+- 
+  term: COP
+  definition: >
+    È un summit sui cambiamenti climatici
+    organizzato dalle Nazioni Unite. Giunta
+    alla 26° edizione, quest’anno si
+    svolgerà nel Regno Unito dal 31 ottobre
+    al 21 novembre 2021. Il Pre-COP è una
+    conferenza rivolta ai giovani in
+    preparazione del summit finale, che si
+    è svolta a Milano dal 30 settembre al 2
+    ottobre 2021.
+  image: [ ]
+  seealso: 0, 1
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 

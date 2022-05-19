@@ -41,3 +41,23 @@
   font-display: swap;
   unicode-range: U+0020-007F;
 }
+
+/* ABC Marfa Bold */
+@font-face {
+  font-family: "MarfaBold";
+  src: url("../fonts/ABCMarfa-Bold-Trial.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0020-007F;
+}
+
+/* ABC Marfa Bold Italic */
+@font-face {
+  font-family: "MarfaBoldItalic";
+  src: url("../fonts/ABCMarfa-BoldItalic-Trial.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0020-007F;
+}

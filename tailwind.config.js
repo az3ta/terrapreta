@@ -16,6 +16,11 @@ module.exports = {
           "MarfaSemiboldItalic",
           ...defaultTheme.fontFamily.sans,
         ],
+        "marfa-bold": ["MarfaBold", ...defaultTheme.fontFamily.sans],
+        "marfa-bold-ita": ["MarfaBoldItalic", ...defaultTheme.fontFamily.sans],
+      },
+      colors: {
+        "tp-green": "#23e628",
       },
     },
   },

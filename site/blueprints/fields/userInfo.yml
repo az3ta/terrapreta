@@ -3,13 +3,16 @@ fields:
   firstName:
     type: text
     required: true
-    width: 1/2
+    width: 1/3
     label: First Name
   lastName:
     type: text
     required: true
-    width: 1/2
+    width: 1/3
     label: Last Name
+  birthday:
+    type: date
+    width: 1/3
   jobDescription:
     label: Job Description
     width: 1/2

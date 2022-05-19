@@ -1,9 +1,0 @@
-Title: Glossary
-
-----
-
-Slug: glossary
-
-----
-
-Text: 

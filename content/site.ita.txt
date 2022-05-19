@@ -18,13 +18,13 @@ Country: Registrata in Italia
 
 ----
 
-Fiscalcode: C.F. RPCGLC93S28F205Q
+Fiscalcode: C.F. 97914210154
 
 ----
 
 Legaladdress:
 
-via Mussi 22
+Via Mussi 22
 2154 Milano
 Italia
 
@@ -38,7 +38,7 @@ Arena:
 
 ----
 
-Instagram: 
+Instagram: https://instagram.com/terrapreta.xyz
 
 ----
 
@@ -54,7 +54,7 @@ Coinbase:
 
 ----
 
-Opencollective: 
+Opencollective: https://opencollective.com/terrapreta/donate
 
 ----
 

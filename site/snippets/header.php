@@ -12,10 +12,17 @@
   <!-- Alpine JS -->
   <script defer src="https://unpkg.com/alpinejs@3.10.2/dist/cdn.min.js"></script>
 
-  <!-- Tailwind CSS -->
+  <!-- P5.js -->
+  <script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js"></script>
+
+  <!-- Swiper JS -->
+  <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"/>
+  <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+
+   <!-- Tailwind CSS -->
   <?= css('assets/css/styles.css') ?>
 
 </head>
 
-<body class="m-4 font-marfa-light">
+<body class="font-marfa-light">
 
