@@ -7,10 +7,10 @@ tabs:
       left:
         width: 1/2
         sections:
-          homeSlider:
+          imageHome:
             type: files
-            headline: Homepage Slider
-            template: imageHomeSlider
+            headline: Homepage Image Background
+            template: imageHome
             layout: cardlets
             info: "{{ file.dimensions }}"
           headline:
@@ -109,8 +109,4 @@ tabs:
             type: url
             translate: false
             label: Open Collective
-          paypal:
-            type: url
-            translate: false
-            label: PayPal
   seotab: seo

@@ -17,6 +17,6 @@ return [
         'what' => 'Cosa facciamo',
         'team' => 'Il nostro team',
         'money' => 'Come usiamo i soldi',
-        'seeAlso' => 'Vedi anche',
+        'seeAlso' => 'Vedi anche:',
     ],
 ];

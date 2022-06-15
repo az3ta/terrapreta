@@ -2,7 +2,7 @@
 <?php snippet('menu') ?>
 
 <!-- Glossary -->
-<main class="mt-32 grid grid-cols-12 text-xl gap-4">
+<main class="m-4 mt-32 grid grid-cols-12 text-xl gap-4">
 
   <?php
   $items = $page->glossary()->toStructure();
@@ -20,12 +20,16 @@
 
     <!-- See also -->
     <?php if ($item->seeAlso()->isNotEmpty()): ?>
-      <strong><?php echo t('seeAlso') ?></strong>
-      <ul>
-        <?php foreach ($item->seeAlso()->text()->split() as $similar): ?>
-        <li><?= $similar ?></li>
-        <?php endforeach ?>
-      </ul>
+      <div class="flex flex-row mt-2 space-x-2 border-t border-black">
+        <p class="text-lg "><?php echo t('seeAlso') ?></p>
+        <ul class="flex flex-row text-lg space-x-2">
+          <?php foreach ($item->seeAlso()->text()->split() as $similar): ?>
+          <li>
+            <?= $similar ?>
+          </li>
+          <?php endforeach ?>
+        </ul>
+      </div>
     <?php endif ?>
   </div>
   <?php endforeach ?>

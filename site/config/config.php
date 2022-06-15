@@ -9,5 +9,10 @@ return [
     ],
     'languages' => true,
     'languages.detect' => true,
+    'diesdasdigital.meta-knight' => [
+      'siteTitleAsHomePageTitle' => true,
+      'separator' => ' – ',
+    ],
+
 
 ];

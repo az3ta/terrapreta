@@ -6,6 +6,7 @@ return function ($site) {
 
   return [
       'logo' => $logo,
+
   ];
 
 };

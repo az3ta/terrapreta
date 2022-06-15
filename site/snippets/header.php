@@ -15,10 +15,6 @@
   <!-- P5.js -->
   <script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js"></script>
 
-  <!-- Swiper JS -->
-  <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"/>
-  <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
-
    <!-- Tailwind CSS -->
   <?= css('assets/css/styles.css') ?>
 

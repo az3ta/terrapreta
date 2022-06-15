@@ -1,4 +1,5 @@
-  <footer class="flex flex-row space-x-8 border border-black p-4 margin-auto max-w-fit mx-auto mt-[12rem] mb-[6rem] bg-white text-lg">
+  <footer class="grid grid-cols-5 gap-8 border border-black p-4 margin-auto max-w-content mx-auto bg-white text-lg mt-[12rem] mb-[6rem] ">
+
       <!-- Terrrapreta APS -->
       <div>
         <h4 class="font-marfa-bold"><?= $site->legalName() ?></h4>
@@ -24,27 +25,36 @@
         <h4 class="font-marfa-bold"><?php echo t('connect') ?></h4>
 
         <?php if ($site->arena()->isNotEmpty()): ?>
-          <a href="<?= $site->arena() ?>">Are.na</a>
+          <a target="_blank" rel="noopener noreferrer nofollow" href="<?= $site->arena() ?>">Are.na</a>
         <?php endif ?>
-         <?php if ($site->instagram()->isNotEmpty()): ?>
-          <a href="<?= $site->instagram() ?>">Instagram</a>
+        <?php if ($site->instagram()->isNotEmpty()): ?>
+          <a target="_blank" rel="noopener noreferrer nofollow" href="<?= $site->instagram() ?>">Instagram</a>
         <?php endif ?>
         <?php if ($site->facebook()->isNotEmpty()): ?>
-          <a href="<?= $site->facebook() ?>">Facebook</a>
+          <a target="_blank" rel="noopener noreferrer nofollow" href="<?= $site->facebook() ?>">Facebook</a>
         <?php endif ?>
 
         <?php if ($site->newsletter()->isNotEmpty()): ?>
-          <a href="<?= $site->newsletter() ?>">Newsletter</a>
+          <a target="_blank" rel="noopener noreferrer nofollow" href="<?= $site->newsletter() ?>">Newsletter</a>
         <?php endif ?>
       </div>
 
       <!-- Support Our Work -->
       <div class="flex flex-col">
         <h4 class="font-marfa-bold"><?php echo t('support') ?></h4>
-        <a href="<?= $site->coinbase() ?>">Coinbase</a>
-        <a href="<?= $site->openCollective() ?>">Open Collective</a>
-        <a href="<?= $site->paypal() ?>">PayPal</a>
+        <?php if ($site->coinbase()->isNotEmpty()): ?>
+          <a target="_blank" rel="noopener noreferrer nofollow" href="<?= $site->coinbase() ?>">Coinbase</a>
+        <?php endif ?>
+        <?php if ($site->openCollective()->isNotEmpty()): ?>
+          <a target="_blank" rel="noopener noreferrer nofollow" href="<?= $site->openCollective() ?>">Open Collective</a>
+        <?php endif ?>
       </div>
+
+
+      <section class="p-4">
+        <p>Questo sito non raccoglie info</p>
+      </section>
+
   </footer>
 </body>
 </html>
