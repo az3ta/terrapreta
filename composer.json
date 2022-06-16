@@ -24,7 +24,8 @@
   "require": {
     "php": ">=7.4.0 <8.2.0",
     "getkirby/cms": "^3.6",
-    "diesdasdigital/kirby-meta-knight": "^1.2"
+    "diesdasdigital/kirby-meta-knight": "^1.2",
+    "bnomei/kirby3-doctor": "^2.1"
   },
   "scripts": {
     "start": [

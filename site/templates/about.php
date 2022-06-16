@@ -33,13 +33,11 @@
     <h2 class="text-lg font-marfa-bold pb-0.5"><?php echo t('team') ?></h2>
     <?= kt($page->team()) ?>
     <!-- Team List -->
-    <dl class="text-lg font-marfa-bold grid grid-cols-2 mt-4">
+    <ul class="text-lg mt-2 flex flex-row flex-wrap">
       <?php foreach ($users = $kirby->users()->sortBy('lastName', 'asc') as $user): ?>
-      <hr class="col-span-2 border-black pt-0.5" />
-      <dt><?= $user->name() ?> </dt>
-      <dd class="font-marfa-light mb-2"><?= $user->jobDescription() ?></dd>
+      <li class="whitespace-nowrap"><?= $user->name() ?>,</li>
       <?php endforeach ?>
-    </dl>
+    </ul>
   </section>
   <?php endif ?>
 
