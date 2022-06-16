@@ -28,6 +28,9 @@
   </script>
   <!-- End MailerLite Universal -->
 
+  <!-- Plausible -->
+  <?php snippet('plausible'); ?>
+
 </head>
 
 <body class="font-marfa-light">
