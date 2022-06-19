@@ -21,6 +21,7 @@ module.exports = {
       },
       colors: {
         "tp-green": "#23e628",
+        "tp-orange": "#fd5f0c",
       },
     },
   },
