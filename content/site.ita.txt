@@ -58,10 +58,6 @@ Opencollective: https://opencollective.com/terrapreta/donate
 
 ----
 
-Paypal: 
-
-----
-
 Meta-title: 
 
 ----
@@ -187,6 +183,10 @@ Robots-noimageindex:
 ----
 
 Robots-nosnippet: 
+
+----
+
+Paypal: 
 
 ----
 

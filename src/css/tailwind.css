@@ -22,26 +22,6 @@
   unicode-range: U+0020-007F;
 }
 
-/* ABC Marfa Semibold */
-@font-face {
-  font-family: "MarfaSemibold";
-  src: url("../fonts/ABCMarfa-Semibold-Trial.woff2") format("woff2");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0020-007F;
-}
-
-/* ABC Marfa Semibold Italic */
-@font-face {
-  font-family: "MarfaSemiboldItalic";
-  src: url("../fonts/ABCMarfa-SemiboldItalic-Trial.woff2") format("woff2");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0020-007F;
-}
-
 /* ABC Marfa Bold */
 @font-face {
   font-family: "MarfaBold";
@@ -60,4 +40,8 @@
   font-style: normal;
   font-display: swap;
   unicode-range: U+0020-007F;
+}
+
+.font-settings {
+  font-feature-settings: "ss01" 1;
 }

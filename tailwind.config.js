@@ -11,11 +11,6 @@ module.exports = {
           "MarfaLightItalic",
           ...defaultTheme.fontFamily.sans,
         ],
-        "marfa-semibold": ["MarfaSemibold", ...defaultTheme.fontFamily.sans],
-        "marfa-semibold-ita": [
-          "MarfaSemiboldItalic",
-          ...defaultTheme.fontFamily.sans,
-        ],
         "marfa-bold": ["MarfaBold", ...defaultTheme.fontFamily.sans],
         "marfa-bold-ita": ["MarfaBoldItalic", ...defaultTheme.fontFamily.sans],
       },

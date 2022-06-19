@@ -508,10 +508,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   grid-column: span 4 / span 4;
 }
 
-.col-start-5 {
-  grid-column-start: 5;
-}
-
 .col-start-1 {
   grid-column-start: 1;
 }
@@ -524,10 +520,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   grid-column-start: 11;
 }
 
-.col-start-4 {
-  grid-column-start: 4;
-}
-
 .col-end-auto {
   grid-column-end: auto;
 }
@@ -538,10 +530,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .col-end-13 {
   grid-column-end: 13;
-}
-
-.col-end-10 {
-  grid-column-end: 10;
 }
 
 .m-4 {
@@ -585,12 +573,20 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-top: 4rem;
 }
 
+.block {
+  display: block;
+}
+
 .flex {
   display: flex;
 }
 
 .grid {
   display: grid;
+}
+
+.hidden {
+  display: none;
 }
 
 .h-screen {
@@ -637,8 +633,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   max-width: 65rem;
 }
 
-.grid-cols-5 {
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+.cursor-pointer {
+  cursor: pointer;
 }
 
 .grid-cols-12 {
@@ -715,11 +711,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-tp-green {
-  --tw-bg-opacity: 1;
-  background-color: rgb(35 230 40 / var(--tw-bg-opacity));
-}
-
 .bg-tp-orange {
   --tw-bg-opacity: 1;
   background-color: rgb(253 95 12 / var(--tw-bg-opacity));
@@ -727,6 +718,11 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .p-4 {
   padding: 1rem;
+}
+
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .px-1\.5 {
@@ -804,6 +800,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   font-weight: 600;
 }
 
+.font-light {
+  font-weight: 300;
+}
+
 .uppercase {
   text-transform: uppercase;
 }
@@ -821,12 +821,13 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(55 65 81 / var(--tw-text-opacity));
 }
 
-.opacity-60 {
-  opacity: 0.6;
+.text-tp-orange {
+  --tw-text-opacity: 1;
+  color: rgb(253 95 12 / var(--tw-text-opacity));
 }
 
-.mix-blend-difference {
-  mix-blend-mode: difference;
+.opacity-60 {
+  opacity: 0.6;
 }
 
 /* ABC Marfa Light */
@@ -851,38 +852,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   font-family: "MarfaLightItalic";
 
   src: url("../fonts/ABCMarfa-LightItalic-Trial.woff2") format("woff2");
-
-  font-weight: normal;
-
-  font-style: normal;
-
-  font-display: swap;
-
-  unicode-range: U+0020-007F;
-}
-
-/* ABC Marfa Semibold */
-
-@font-face {
-  font-family: "MarfaSemibold";
-
-  src: url("../fonts/ABCMarfa-Semibold-Trial.woff2") format("woff2");
-
-  font-weight: normal;
-
-  font-style: normal;
-
-  font-display: swap;
-
-  unicode-range: U+0020-007F;
-}
-
-/* ABC Marfa Semibold Italic */
-
-@font-face {
-  font-family: "MarfaSemiboldItalic";
-
-  src: url("../fonts/ABCMarfa-SemiboldItalic-Trial.woff2") format("woff2");
 
   font-weight: normal;
 
@@ -925,9 +894,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   unicode-range: U+0020-007F;
 }
 
-.hover\:bg-tp-green:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(35 230 40 / var(--tw-bg-opacity));
+.font-settings {
+  font-feature-settings: "ss01" 1;
 }
 
 .hover\:bg-tp-orange:hover {
@@ -935,12 +903,77 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(253 95 12 / var(--tw-bg-opacity));
 }
 
+.hover\:bg-tp-green:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(35 230 40 / var(--tw-bg-opacity));
+}
+
 .hover\:text-tp-orange:hover {
   --tw-text-opacity: 1;
   color: rgb(253 95 12 / var(--tw-text-opacity));
 }
 
-.hover\:underline:hover {
-  -webkit-text-decoration-line: underline;
-          text-decoration-line: underline;
+@media (min-width: 640px) {
+  .sm\:block {
+    display: block;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:col-start-2 {
+    grid-column-start: 2;
+  }
+
+  .md\:col-end-12 {
+    grid-column-end: 12;
+  }
+
+  .md\:grid {
+    display: grid;
+  }
+
+  .md\:hidden {
+    display: none;
+  }
+
+  .md\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:col-span-4 {
+    grid-column: span 4 / span 4;
+  }
+
+  .lg\:col-start-5 {
+    grid-column-start: 5;
+  }
+
+  .lg\:col-start-3 {
+    grid-column-start: 3;
+  }
+
+  .lg\:col-end-11 {
+    grid-column-end: 11;
+  }
+
+  .lg\:grid-cols-5 {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .lg\:px-0 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\:col-start-4 {
+    grid-column-start: 4;
+  }
+
+  .xl\:col-end-10 {
+    grid-column-end: 10;
+  }
 }
