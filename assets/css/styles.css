@@ -677,16 +677,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-bottom: calc(3rem * var(--tw-space-y-reverse));
 }
 
-.space-y-6 > :not([hidden]) ~ :not([hidden]) {
-  --tw-space-y-reverse: 0;
-  margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));
-  margin-bottom: calc(1.5rem * var(--tw-space-y-reverse));
-}
-
 .space-y-4 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-y-reverse: 0;
   margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
   margin-bottom: calc(1rem * var(--tw-space-y-reverse));
+}
+
+.self-center {
+  align-self: center;
 }
 
 .justify-self-center {
@@ -728,32 +726,28 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(253 95 12 / var(--tw-bg-opacity));
 }
 
-.bg-opacity-25 {
-  --tw-bg-opacity: 0.25;
-}
-
-.bg-opacity-10 {
-  --tw-bg-opacity: 0.1;
-}
-
 .bg-opacity-20 {
   --tw-bg-opacity: 0.2;
 }
 
-.bg-opacity-50 {
-  --tw-bg-opacity: 0.5;
+.bg-cover {
+  background-size: cover;
 }
 
-.bg-opacity-0 {
-  --tw-bg-opacity: 0;
+.bg-contain {
+  background-size: contain;
+}
+
+.bg-center {
+  background-position: center;
+}
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
 }
 
 .p-4 {
   padding: 1rem;
-}
-
-.p-2 {
-  padding: 0.5rem;
 }
 
 .px-4 {
@@ -817,9 +811,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   line-height: 1.75rem;
 }
 
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 .text-xl {
@@ -830,11 +824,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .text-5xl {
   font-size: 3rem;
   line-height: 1;
-}
-
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
 }
 
 .font-semibold {
@@ -935,18 +924,19 @@ Ensure the default browser behavior of the `hidden` attribute.
   unicode-range: U+0020-007F;
 }
 
+/* fix typography */
+
 .font-settings {
   font-feature-settings: "ss01" 1;
+}
+
+.circled-number {
+  font-feature-settings: "ss02" 1;
 }
 
 .hover\:bg-tp-orange:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(253 95 12 / var(--tw-bg-opacity));
-}
-
-.hover\:bg-tp-green:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(35 230 40 / var(--tw-bg-opacity));
 }
 
 .hover\:text-tp-orange:hover {

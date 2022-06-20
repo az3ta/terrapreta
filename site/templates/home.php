@@ -1,16 +1,11 @@
 <?php snippet('header') ?>
 <?php snippet('menu') ?>
 
-<main class="absolute z-0">
+<main class="absolute bg-no-repeat bg-center bg-cover w-full h-full z-0" style="background-image: url(<?= $imageHome->thumb(['format' => 'webp', 'quality' => 80])->url() ?>);">
 
   <!-- Headline -->
   <section class="p-x-4 w-full h-screen fixed z-20 top-0 flex flex-col items-center justify-center">
     <p class="leading-tight font-marfa-bold max-w-[65rem] text-5xl text-center"><?= $site->headline() ?></p>
-  </section>
-
-  <!-- Background image -->
-  <section class="fixed z-0 top-0 w-full h-full">
-    <img class=" w-full h-auto min-h-full fixed top-0  opacity-60" src="<?= $imageHome->url() ?>" alt="">
   </section>
 
   <!-- P5 sketch -->
@@ -33,7 +28,7 @@ function setup() {
 }
 
 function draw() {
-  fill(35, 230, 40, 125);
+  fill('rgba(253, 95, 12, 0.25)');
   noStroke();
   rectMode(CENTER)
   rect(x, y, random(1, 25), random(1, 25))

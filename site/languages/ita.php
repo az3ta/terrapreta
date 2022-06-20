@@ -15,8 +15,14 @@ return [
         'support' => 'Supporta il nostro lavoro',
         'mission' => 'La nostra missione',
         'what' => 'Cosa facciamo',
-        'team' => 'Il nostro team',
+        'team' => 'Team',
         'money' => 'Come usiamo i soldi',
         'seeAlso' => 'Vedi anche:',
+        'legalRappresentative' => 'Rappresentante legale',
+        'thanksSupport' => 'Terrapreta APS ringrazia per il supporto',
+        'lastUpdate' => 'Ultimo aggiornamento',
+        'version' => 'Versione',
+        'name' => 'Nome',
+
     ],
 ];

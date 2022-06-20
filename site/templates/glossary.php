@@ -7,15 +7,16 @@
   <?php
   $items = $page->glossary()->toStructure();
   foreach ($items as $item): ?>
-  <div class="col-span-4">
+  <div class="col-span-4 ">
     <h2 class="font-marfa-bold"><?= $item->term()->html() ?></h2>
     <?= kt($item->definition()) ?>
     <?php foreach ($item->image()->toFiles() as $image): ?>
-      <picture>
-        <img
-          loading="lazy"
-          src="<?= $image->crop(500)->url() ?>">
-      </picture>
+    <picture class=" flex flex-col">
+      <img
+        class="self-center"
+        loading="lazy"
+        src="<?= $image->thumb(['format' => 'webp', 'quality' => 80, 'width' => 250])->url() ?>">
+    </picture>
     <?php endforeach ?>
 
     <!-- See also -->
@@ -23,7 +24,7 @@
       <div class="flex flex-row mt-2 space-x-2 border-t border-black">
         <p class="text-lg "><?php echo t('seeAlso') ?></p>
         <ul class="flex flex-row text-lg space-x-2">
-          <?php foreach ($item->seeAlso()->text()->split() as $similar): ?>
+          <?php foreach ($item->seeAlso() as $similar): ?>
           <li>
             <?= $similar ?>
           </li>

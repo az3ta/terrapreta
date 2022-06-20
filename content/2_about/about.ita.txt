@@ -2,23 +2,46 @@ Title: About
 
 ----
 
-Intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Molestie nunc non blandit massa enim nec dui nunc mattis. Viverra vitae congue eu consequat ac felis donec et odio. Blandit cursus risus at ultrices mi tempus imperdiet. Viverra suspendisse potenti nullam ac tortor vitae.
+Intro: Siamo un'organizzazione no-profit che promuove soluzioni basate sulla natura (NBS) in collaborazione con le comunità e le istituzioni locali. Studiamo le strategie più efficaci per sviluppare le interazioni reciproche tra gli esseri umani e altre forme di vita, all'interno di ecosistemi urbani ed extraurbani.
 
 ----
 
-Mission: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Molestie nunc non blandit massa enim nec dui nunc mattis. Viverra vitae congue eu consequat ac felis donec et odio. Blandit cursus risus at ultrices mi tempus imperdiet. Viverra suspendisse potenti nullam ac tortor vitae.
+Mission: Vogliamo innovare il ruolo della natura urbana e cambiare il modo in cui le città vengono pensate: attraverso ricerca integrata, la sperimentazione di modelli partecipativi e della gestione dei beni comuni.
 
 ----
 
-What: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Molestie nunc non blandit massa enim nec dui nunc mattis. Viverra vitae congue eu consequat ac felis donec et odio. Blandit cursus risus at ultrices mi tempus imperdiet. Viverra suspendisse potenti nullam ac tortor vitae.
+What:
+
+1 Sviluppo e attuazione di soluzioni basate sulla natura (NBS)
+2 Organizzare e condurre l'analisi dei servizi ecosistemici
+3 Facilitazione e mediazione tra comunità locali, amministrazione pubblica e istituzioni
+4 Educazione ambientale e ricerca scientifica
 
 ----
 
-Team: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Molestie nunc non blandit massa enim nec dui nunc mattis. Viverra vitae congue eu consequat ac felis donec et odio. Blandit cursus risus at ultrices mi tempus imperdiet. Viverra suspendisse potenti nullam ac tortor vitae.
+Team:
+
+Siamo un team multidisciplinare con diverse aree di competenza, tra cui: comunicazione, graphic & interaction design, filmmaking, architettura del paesaggio, logistica, organizzazione politica, ricerca, sviluppo software e scrittura.
+Il nostro gruppo lavora in remoto da tutta l’Europa, dove stiamo costruendo una rete di partner. Tutti i membri del team hanno esperienze lavorative sia in ambienti comunitari che professionali.
 
 ----
 
-Support: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Molestie nunc non blandit massa enim nec dui nunc mattis. Viverra vitae congue eu consequat ac felis donec et odio. Blandit cursus risus at ultrices mi tempus imperdiet. Viverra suspendisse potenti nullam ac tortor vitae.
+Name:
+
+La terra preta (terra scura) è una particolare tipologia di suolo: una infrastruttura invisibile, che genera una connessione tra i vari elementi che la abitano. È uno dei primi tipi di compost ad oggi conosciuti, nasce infatti nella foresta amazzonica intorno al 2800 BCE.
+Per noi questo termine è il punto di partenza di uno percorso per rigenerare e ripristinare gli ecosistemi che la città ha fino ad oggi dimenticato.
+
+----
+
+Support:
+
+Il nostro lavoro è sostenuto da investitori privati, istituzioni e bandi. Essendo un’associazione no profit, tutto il denaro che riceviamo viene destinato alle nostre operazioni.
+
+Se un individuo desidera sostenere la nostra organizzazione può farlo attraverso i seguenti metodi:
+
+----
+
+Howmoney: 
 
 ----
 
@@ -147,6 +170,10 @@ Robots-noimageindex:
 ----
 
 Robots-nosnippet: 
+
+----
+
+What2: <ul><li>Sviluppo e attuazione di soluzioni basate sulla natura (NBS)</li><li>Organizzare e condurre l'analisi dei servizi ecosistemici</li><li>Facilitazione e mediazione tra comunità locali, amministrazione pubblica e istituzioni</li><li>Educazione ambientale e ricerca scientifica</li></ul>
 
 ----
 

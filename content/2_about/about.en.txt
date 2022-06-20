@@ -2,23 +2,47 @@ Title: About
 
 ----
 
-Intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Molestie nuncs non blandit massa enim nec dui nunc mattis. Viverra vitae congue eu consequat ac felis donec et odio. Blandit cursus risus at ultrices mi tempus imperdiet. Viverra suspendisse potenti nullam ac tortor vitae.
+Intro: We’re a non-profit organization enhancing Nature-Based Solutions in cooperation with local communities and institutions. We study the most effective strategies to develop mutual interactions between human beings and other forms of life, within urban and extra-urban ecosystems.
 
 ----
 
-Mission: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Feugiat scelesrisque varius morbi enim nunc faucibus a pellentesque. Molestie nunc non blandit massa enim nec dui nunc mattis. Viverra vitae congue eu consequat ac felis donec et odio. Blandit cursus risus at ultrices mi tempus imperdiet. Viverra suspendisse potenti nullam ac tortor vitae.
+Mission: We want to innovate the role of urban nature and change the way cities are designed: through integrated research, experimentation with participatory models and the management of the common goods.
 
 ----
 
-What: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis. Nulsla at volutpat diam ut venenatis tellus in metus vulputate. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Molestie nunc non blandit massa enim nec dui nunc mattis. Viverra vitae congue eu consequat ac felis donec et odio. Blandit cursus risus at ultrices mi tempus imperdiet. Viverra suspendisse potenti nullam ac tortor vitae.
+What:
+
+1 Develop and implement of Nature-Based Solution
+2 Organize and conduct ecosystem services analysis
+3 Facilitation and mediation between grassroots, public administration and institutions
+4 Environmental education & scientific research
 
 ----
 
-Team: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Feugiat sceslerisque varius morbi enim nunc faucibus a pellentesque. Molestie nunc non blandit massa enim nec dui nunc mattis. Viverra vitae congue eu consequat ac felis donec et odio. Blandit cursus risus at ultrices mi tempus imperdiet. Viverra suspendisse potenti nullam ac tortor vitae.
+Team:
+
+We are a multidisciplinary team with several areas of expertise, including: communication, graphic & interaction design, filmmaking, landscape architecture, logistic, political organization, research, software development and writing.
+
+Our group works remotely across Europe where we are building a network of partners. All team members have work experiences in both grassroot and professional environments.
 
 ----
 
-Support: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Feugiat sscelerisque varius morbi enim nunc faucibus a pellentesque. Molestie nunc non blandit massa enim nec dui nunc mattis. Viverra vitae congue eu consequat ac felis donec et odio. Blandit cursus risus at ultrices mi tempus imperdiet. Viverra suspendisse potenti nullam ac tortor vitae.
+Name:
+
+Terra preta (dark soil) is a special type of soil: an invisible infrastructure that creates a connection between the various elements that inhabit it. It is one of the earliest types of compost known to date, originating in the Amazon rainforest around 2800 BCE.
+For us, this term is the starting point of a path to regenerate and restore the ecosystems that the city has so far forgotten.
+
+----
+
+Support:
+
+Our work is supported by private investors, institutions and grants. Being a non-profit all the money we receive is allocated to our operations.
+
+If an individual would like to support our organization can be done by the following methods:
+
+----
+
+Howmoney: 
 
 ----
 
@@ -150,11 +174,11 @@ Robots-nosnippet:
 
 ----
 
-Text: 
+What2: <ul><li>Sviluppo e attuazione di soluzioni basate sulla natura (NBS)</li><li>Organizzare e condurre l'analisi dei servizi ecosistemici</li><li>Facilitazione e mediazione tra comunità locali, amministrazione pubblica e istituzioni</li><li>Educazione ambientale e ricerca scientifica</li></ul>
 
 ----
 
-Howmoney: 
+Text: 
 
 ----
 

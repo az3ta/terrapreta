@@ -2,7 +2,7 @@
 <?php snippet('menu') ?>
 
 <!-- About -->
-<main class="m-4 grid grid-cols-12 mt-32 text-3xl">
+<main class="m-4 grid grid-cols-12 mt-32 text-2xl">
   <article class="col-start-1 col-end-13 md:col-start-2 md:col-end-12 lg:col-start-3 lg:col-end-11 xl:col-start-4 xl:col-end-10 flex flex-col space-y-12">
     <!-- Intro -->
     <?php if ($page->intro()->isNotEmpty()): ?>
@@ -21,9 +21,9 @@
 
     <!-- What do we do -->
     <?php if ($page->what()->isNotEmpty()): ?>
-    <section>
+    <section class="circled-number">
       <h2 class="text-lg font-marfa-bold pb-0.5"><?php echo t('what') ?></h2>
-      <?= kt($page->what()) ?>
+      <?= $page->what()->kirbytext() ?>
     </section>
     <?php endif ?>
 
@@ -41,18 +41,30 @@
     </section>
     <?php endif ?>
 
+     <!-- Our name -->
+    <?php if ($page->name()->isNotEmpty()): ?>
+    <section>
+      <h2 class="text-lg font-marfa-bold pb-0.5"><?php echo t('name') ?></h2>
+      <?= $page->name()->kirbytext() ?>
+    </section>
+    <?php endif ?>
+
     <!-- Support -->
     <?php if ($page->support()->isNotEmpty()): ?>
     <section>
       <h2 class="text-lg font-marfa-bold pb-0.5"><?php echo t('support') ?></h2>
       <?= kt($page->support()) ?>
       <ul class="flex flex-row space-x-2 text-lg mt-4">
-        <li class="border border-black px-1.5 py-0 hover:bg-tp-green">
+        <?php if ($site->coinbase()->isNotEmpty()): ?>
+        <li class="border border-black px-1.5 py-0 hover:bg-tp-orange">
           <a target="_blank" rel="noopener noreferrer nofollow" href="<?= $site->coinbase() ?>">Coinbase</a>
         </li>
-        <li class="border border-black px-1.5 py-0 hover:bg-tp-green" href="<?= $site->openCollective() ?>" >
+         <?php endif ?>
+        <?php if ($site->openCollective()->isNotEmpty()): ?>
+        <li class="border border-black px-1.5 py-0 hover:bg-tp-orange" href="<?= $site->openCollective() ?>" >
           <a target="_blank" rel="noopener noreferrer nofollow" href="<?= $site->openCollective() ?>">Open Collective</a>
         </li>
+         <?php endif ?>
       </ul>
     </section>
     <?php endif ?>

@@ -7,7 +7,8 @@ Glossary:
 - 
   term: Albero Madre
   definition: 'Sono gli esemplari più anziani, attorno ai quali si organizzano le reti sotterranee di radici e micorrize. Questi alberi monumentali, essendo più alti e immagazzinando maggior luce solare, si occupano di inviare il loro carbonio agli alberi più giovani, anche di altre specie, affinché si preservi la biodiversità. [dagli studi di Suzanne Simard, professoressa di Ecologia Forestale alla University of British Columbia (Canada)].'
-  image: [ ]
+  image:
+    - v-2_2.4003.600.jpg
   seealso: "1"
 - 
   term: COP

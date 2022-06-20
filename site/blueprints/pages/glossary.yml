@@ -22,10 +22,10 @@ tabs:
             info: "{{ file.dimensions }}"
           seeAlso:
             type: multiselect
-            options: query
             label: See Also
+            options: query
             query:
               fetch: page.glossary.toStructure
-              text: "{{ structureItem.term }}"
+              text: "{{ structureItem.term.title }}"
 
   seotab: seo
