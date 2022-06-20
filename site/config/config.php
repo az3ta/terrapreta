@@ -11,7 +11,7 @@ return [
     'languages.detect' => true,
     'diesdasdigital.meta-knight' => [
       'siteTitleAsHomePageTitle' => true,
-      'separator' => ' – ',
+      'separator' => ' — ',
     ],
     'floriankarsten.plausible' => [
       'sharedLink' => 'https://plausible.io/share/terrapreta.xyz?auth=XBMABOytx1bUIkOZgm2Oq',

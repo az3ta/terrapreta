@@ -130,23 +130,27 @@ Twitter-creator:
 
 ----
 
-Robots-noindex: 
+Robots-noindex: disabled
 
 ----
 
-Robots-nofollow: 
+Robots-nofollow: disabled
 
 ----
 
-Robots-noarchive: 
+Robots-noarchive: disabled
 
 ----
 
-Robots-noimageindex: 
+Robots-noimageindex: disabled
 
 ----
 
-Robots-nosnippet: 
+Robots-nosnippet: disabled
+
+----
+
+Paypal: 
 
 ----
 
