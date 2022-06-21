@@ -1,4 +1,4 @@
-  <footer class="px-4 lg:px-0 flex flex-col margin-4 self-center max-w-6xl mx-auto bg-white text-lg mt-[12rem] mb-[6rem] ">
+  <footer class="px-4 lg:px-0 flex flex-col mx-0 sm:mx-4 self-center max-w-6xl bg-white text-lg mt-[12rem] mb-[6rem] ">
     <section class="flex flex-col md:grid md:grid-cols-2 lg:grid-cols-5 gap-4 border border-black p-4">
       <!-- Terrrapreta APS -->
       <div>

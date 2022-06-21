@@ -7,7 +7,7 @@
   <?php
   $items = $page->glossary()->toStructure();
   foreach ($items as $item): ?>
-  <div class="col-span-4 ">
+  <div class="col-span-12 sm:col-span-6 lg:col-span-4 ">
     <h2 class="font-marfa-bold"><?= $item->term()->html() ?></h2>
     <?= kt($item->definition()) ?>
     <?php if ($item->citation()->isNotEmpty()): ?>
