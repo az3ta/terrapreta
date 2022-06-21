@@ -7,6 +7,9 @@ return [
       'slug' => 'admin-area',
       'css' => 'assets/css/custom-panel.css'
     ],
+    'auth' => [
+        'methods' => ['code', 'password']
+    ],
     'languages' => true,
     'languages.detect' => true,
     'diesdasdigital.meta-knight' => [
