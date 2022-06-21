@@ -34,7 +34,8 @@
       <?= kt($page->team()) ?>
       <!-- Team List -->
       <ul class="text-lg mt-2 flex flex-row flex-wrap">
-        <?php foreach ($users = $kirby->users()->sortBy('lastName', 'asc') as $user): ?>
+        <?php
+        foreach ($users = $kirby->users()->sortBy('lastName', 'asc') as $user): ?>
         <li class="whitespace-nowrap"><?= $user->name() ?>,</li>
         <?php endforeach ?>
       </ul>
