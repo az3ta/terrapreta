@@ -17,7 +17,7 @@ fields:
     label: Job Description
     width: 1/2
     type: text
-    required: true
+    required: false
   role:
     label: Role in Terrapreta
     type: text

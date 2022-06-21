@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'debug' => true,
+    'debug' => false,
     'panel' => [
-      'install' => true,
+      'install' => false,
       'slug' => 'admin-area',
       'css' => 'assets/css/custom-panel.css'
     ],
