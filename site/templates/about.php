@@ -23,7 +23,7 @@
     <?php if ($page->what()->isNotEmpty()): ?>
     <section class="circled-number">
       <h2 class="text-lg font-marfa-bold pb-0.5"><?php echo t('what') ?></h2>
-      <?= $page->what()->kirbytext() ?>
+      <?= kt($page->what()) ?>
     </section>
     <?php endif ?>
 

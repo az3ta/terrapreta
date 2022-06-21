@@ -40,5 +40,5 @@
   <?php snippet('plausible'); ?>
 </head>
 
-<body class="font-marfa-light">
+<body class="font-marfa-light flex flex-col">
 

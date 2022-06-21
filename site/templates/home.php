@@ -4,8 +4,8 @@
 <main class="absolute bg-no-repeat bg-center bg-cover w-full h-full z-0" style="background-image: url(<?= $imageHome->thumb(['format' => 'webp', 'quality' => 80])->url() ?>);">
 
   <!-- Headline -->
-  <section class="p-x-4 w-full h-screen fixed z-20 top-0 flex flex-col items-center justify-center">
-    <p class="leading-tight font-marfa-bold max-w-[65rem] text-5xl text-center"><?= $site->headline() ?></p>
+  <section class="px-4 w-full h-screen fixed z-20 top-0 flex flex-col items-center justify-center text-white bg-black bg-opacity-30 text-2xl sm:text-3xl md:text-5xl">
+    <p class="font-marfa-bold max-w-[65rem] text-center"><?= $site->headline() ?></p>
   </section>
 
   <!-- P5 sketch -->

@@ -29,7 +29,7 @@ Meta-title:
 
 ----
 
-Meta-description: 
+Meta-description: We promote Nature-Based Solutions to protect, sustain and restore ecosystems. Focusing on post-industrial areas and the communities around them.
 
 ----
 
@@ -81,7 +81,7 @@ Og-determiner:
 
 ----
 
-Og-type: 
+Og-type: website
 
 ----
 
@@ -121,7 +121,7 @@ Twitter-image:
 
 ----
 
-Twitter-card-type: 
+Twitter-card-type: summary_large_image
 
 ----
 

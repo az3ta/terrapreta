@@ -1,4 +1,4 @@
-  <footer class="px-4 lg:px-0 flex flex-col margin-auto max-w-6xl mx-auto bg-white text-lg mt-[12rem] mb-[6rem] ">
+  <footer class="px-4 lg:px-0 flex flex-col margin-4 self-center max-w-6xl mx-auto bg-white text-lg mt-[12rem] mb-[6rem] ">
     <section class="flex flex-col md:grid md:grid-cols-2 lg:grid-cols-5 gap-4 border border-black p-4">
       <!-- Terrrapreta APS -->
       <div>
@@ -51,7 +51,7 @@
       <p class="lg:col-span-4">&#169;<?= date("Y"); ?> Terrapreta APS &ndash; <br / class="block md:hidden">All rights reserved</p>
       <ul class="lg:col-start-5">
         <li><a class="cursor-pointer hover:text-tp-orange <?= e($page->is(page('impressum')), 'text-tp-orange') ?>" href="<?= page('impressum')->url() ?>"><?= page('impressum')->title() ?></a></li>
-        <li<a class="cursor-pointer hover:text-tp-orange <?= e($page->is(page('privacy-policy')), 'text-tp-orange') ?>" href="<?= page('impressum')->url() ?>"><?= page('privacy-policy')->title() ?></a></li>
+        <!-- <li<a class="cursor-pointer hover:text-tp-orange <?= e($page->is(page('privacy-policy')), 'text-tp-orange') ?>" href="<?= page('impressum')->url() ?>"><?= page('privacy-policy')->title() ?></a></li> -->
       </ul>
     </section>
   </footer>

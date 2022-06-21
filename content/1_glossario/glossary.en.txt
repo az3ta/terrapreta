@@ -6,7 +6,156 @@ Slug: glossary
 
 ----
 
-Glossary: 
+Glossary:
+
+- 
+  term: Clearing
+  definition: >
+    Area of the forest where trees thin out
+    or are lost. This forms a turf in which
+    various ecosystems, called heliophilic
+    environments, can proliferate due to
+    direct solar radiation. The philosopher
+    Heidegger uses the metaphor of the
+    clearing to describe the sudden
+    brightness in which a wayfarer wandering
+    in the midst of a dense forest can find
+    himself, comparable to the enlightenment
+    of reason.
+  citation: ""
+  image: [ ]
+  seealso: ""
+- 
+  term: Ecosystem Services
+  definition: "Set of benefits, in economic-financial terms, that a healthy biological system - such as a forest or even a lone tree - is able to provide to a given land or urban context. They fall into four macro-categories: life support (nutrient cycling, soil formation and habitat healthiness); provisioning (food, potable water, energy, raw materials, medicinal or genetic resources); regulation (of climate, tides and flooding, water purification or hydrogeological balance); cultural values (aesthetic, spiritual, educational and recreational). ES’s are not yet adequately quantified, in comparable terms with economic services and manufacturing capital, although the world's economies would suffer a major setback without their life support."
+  citation: ""
+  image: [ ]
+  seealso: ""
+- 
+  term: Fabaceae
+  definition: >
+    A very numerous family of plants, also
+    known as leguminosae. They are very
+    hardy plants, with rapid growth cycles.
+    Through a bacterium, Rhizobium
+    leguminosarum, they are able to fix
+    atmospheric nitrogen, making their
+    presence essential for the
+    sustainability of agro-ecosystems. This
+    large family includes Mimosa, Robinia,
+    Vicia, Broom, Wisteria, Alfalfa and
+    Clover.
+  citation: Enciclopedia Britannica
+  image: [ ]
+  seealso: ""
+- 
+  term: Foreste Urbane
+  definition: >
+    Powerful NbS that support human life and
+    natural ecosystems within the urbanized
+    context. They provide multiple
+    environmental, social, and economic
+    benefits, including carbon sequestration
+    and storage, reduction of heat island
+    effects, and flood containment. They
+    improve human health, both physical and
+    mental, as long as limiting energy
+    consumption and providing shelter for
+    wildlife by offering food and shade.
+  citation: ""
+  image: [ ]
+  seealso: ""
+- 
+  term: Mother Tree
+  definition: >
+    The elder trees of a forest, around
+    which the underground networks of roots
+    and mycorrhizae are organized. These
+    monumental trees, being taller and
+    storing more sunlight, send their carbon
+    to younger trees to help them develop,
+    including those of other species,
+    preserving biodiversity.
+  citation: >
+    The studies of S. Simard, Forest ecology
+    professor @ University of British
+    Columbia (CA)
+  image: [ ]
+  seealso: ""
+- 
+  term: Mycorrhiza
+  definition: >
+    Special type of symbiotic connection
+    occurring underground between fungi and
+    tree roots. Through these symbioses, two
+    or more organisms can exchange nutrients
+    or ally in defense against environmental
+    stress and diseases. Some fossil remains
+    testify to the existence of
+    endomycorrhizae on earth as early as 450
+    million years ago, at the same time as
+    the first forms of plant life appeared.
+    Mycorrhizae are believed to have been
+    instrumental in the process of creating
+    the temperate ecosystems in which human
+    beings later developed. The best known
+    mycorrhizal symbioses, for culinary
+    reasons, are those between truffles and
+    oaks or porcini and chestnut trees.
+  citation: ""
+  image: [ ]
+  seealso: ""
+- 
+  term: Nature-based Solutions (NBS)
+  definition: >
+    Strategic solutions based on proper
+    planning of ecosystems in urban or
+    suburban areas. They can help improve
+    the living conditions of an area,
+    mitigate costs spent on public health,
+    aggregate the community, or plan a
+    wide-range territory. Designing NbS
+    necessarily begins with a study of the
+    area in which they want to be applied,
+    aimed to highlight distinctive features,
+    strengths and weaknesses, opportunities
+    and risks on which to focus design
+    attention.
+  citation: ""
+  image: [ ]
+  seealso: ""
+- 
+  term: Terra preta
+  definition: >
+    Particular type of soil of anthropogenic
+    origin. Typical of the Amazon basin,
+    terra preta (that means black soil from
+    the Portuguese) has a very dark color,
+    due to fertilization that took place in
+    the pre-Columbian period, with organic
+    material and vegetable carbon. From some
+    scientific studies it appears that these
+    lands have self-healing abilities,
+    growing at the rate of 1 cm per year for
+    millennia.
+  citation: ""
+  image: [ ]
+  seealso: ""
+- 
+  term: Top Soil
+  definition: >
+    Surface layer of the soil, on average
+    the first 20-30 cm. It is therefore a
+    very important factor in terms of
+    remediation of polluted areas, as it is
+    the main route of exposure by dermal
+    contact, ingestion or inhalation. In
+    German legislation it is the benchmark
+    for risk analysis aimed at making an
+    area usable once again.
+  citation: ""
+  image: [ ]
+  seealso: ""
 
 ----
 

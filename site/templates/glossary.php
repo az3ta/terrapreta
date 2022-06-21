@@ -10,6 +10,11 @@
   <div class="col-span-4 ">
     <h2 class="font-marfa-bold"><?= $item->term()->html() ?></h2>
     <?= kt($item->definition()) ?>
+    <?php if ($item->citation()->isNotEmpty()): ?>
+    <span class="text-base">
+    <?= kt($item->citation()) ?>
+    </span>
+    <?php endif ?>
     <?php foreach ($item->image()->toFiles() as $image): ?>
     <picture class=" flex flex-col">
       <img
