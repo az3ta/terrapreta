@@ -1,0 +1,5 @@
+Title: Error
+
+----
+
+Text: Ops, this page doesn't exist!

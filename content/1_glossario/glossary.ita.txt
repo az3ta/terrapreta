@@ -1,0 +1,257 @@
+Title: Glossario
+
+----
+
+Glossary:
+
+- 
+  term: Albero Madre
+  definition: >
+    Esemplari più anziani di una foresta,
+    attorno ai quali si organizzano le
+    principali reti sotterranee di
+    micorrize. Questi alberi monumentali,
+    essendo più alti e immagazzinando
+    maggior luce solare, si occupano di
+    inviare il loro carbonio in eccesso agli
+    alberi più giovani, anche di altre
+    specie, affinché si preservi la
+    biodiversità.
+  citation: >
+    Studi di Suzanne Simard, professoressa
+    di Ecologia Forestale alla University of
+    British Columbia (Canada).
+  image: [ ]
+  seealso: ""
+- 
+  term: Fabaceae
+  definition: "Una famiglia di piante molto numerosa, conosciuta anche come leguminose. Sono piante molto resistenti, con rapidi cicli di crescita. Attraverso un batterio, il Rhizobium leguminosarum, sono in grado di fissare l'azoto atmosferico, rendendo la loro presenza fondamentale per la sostenibilità degli agro-ecosistemi. Di questa larga famiglia fanno parte Mimosa, Robinia, Vicia, Ginestra, Glicine, Erba medica e Trifoglio."
+  citation: Enciclopedia Britannica
+  image: [ ]
+  seealso: ""
+- 
+  term: Foreste Urbane
+  definition: "Potenti NbS che supportano la vita umana e gli ecosistemi naturali all’interno del contesto urbanizzato. Forniscono molteplici vantaggi ambientali, sociali ed economici, tra cui il sequestro e lo stoccaggio del carbonio, la riduzione degli effetti dell'isola di calore e il contenimento delle alluvioni. Migliorano la salute umana, mentale e fisica, limitano il consumo di energia e forniscono riparo alla fauna selvatica, offrendo cibo e ombreggiatura."
+  citation: ""
+  image: [ ]
+  seealso: ""
+- 
+  term: Micorriza
+  definition: >
+    Particolare tipo di connessione
+    simbiotica, che avviene nel sottosuolo,
+    tra i funghi e le radici degli alberi.
+    Attraverso queste connessioni, due o
+    più organismi possono scambiare
+    nutrienti o allearsi in difesa da stress
+    ambientale e malattie. Alcuni resti
+    fossili testimoniano l’esistenza di
+    endomicorrize sulla terra già 450
+    milioni di anni fa, contemporaneamente
+    all’apparizione delle prime forme di
+    vita vegetale. Le micorrize, si ritiene
+    siano state fondamentali nel processo di
+    creazione degli ecosistemi temperati in
+    cui si è poi sviluppato l’essere
+    umano. Le simbiosi micorriziche più
+    conosciute, per ragioni culinarie, sono
+    quelle tra tartufi e querce o tra
+    porcini e castagni.
+  citation: ""
+  image: [ ]
+  seealso: ""
+- 
+  term: Nature-based Solutions (NbS)
+  definition: >
+    Soluzioni strategiche basate su una
+    corretta pianificazione degli ecosistemi
+    in ambito urbano o extraurbano. Possono
+    contribuire a migliorare le condizioni
+    di vita di un territorio, a mitigare i
+    costi sulla salute pubblica, ad
+    aggregare la comunità o a pianificare
+    un territorio di ampio raggio. La
+    progettazione di NbS, inizia
+    necessariamente da uno studio del
+    territorio in cui vogliono essere
+    applicate, per denotare tratti
+    distintivi, punti di forza e di
+    debolezza, opportunità e rischi su cui
+    concentrare l’attenzione progettuale.
+  citation: ""
+  image: [ ]
+  seealso: ""
+- 
+  term: Radura
+  definition: >
+    Zona di bosco in cui gli alberi si
+    diradano o vengono a mancare. Si forma
+    così un tappeto erboso in cui vari
+    ecosistemi, definiti ambienti eliofili,
+    possono proliferare grazie alla
+    radiazione solare diretta. Il filosofo
+    Heidegger si serve della metafora della
+    radura, per descrivere la luminosità
+    improvvisa in cui un viandante che
+    cammini in mezzo a un bosco di fitti
+    alberi può trovarsi, paragonabile alla
+    luce della ragione.
+  citation: ""
+  image: [ ]
+  seealso: ""
+- 
+  term: Servizi Ecosistemici
+  definition: "Insieme di benefici, in termini economico-finanziari, che un sistema biologico in salute - come un bosco o un singolo albero - è in grado di fornire a un determinato territorio o contesto urbano. Si dividono in quattro macrocategorie: supporto alla vita (ciclo dei nutrienti, formazione del suolo e salubrità dell’habitat); approvvigionamento (cibo, acqua potabile, energia, materiali grezzi, risorse medicinali o genetiche); regolazione (del clima, delle maree e delle esondazioni, depurazione dell'acqua o equilibrio idrogeologico); valori culturali (estetici, spirituali, educativi e ricreativi). I SE non sono ancora quantificati adeguatamente, in termini comparabili con i servizi economici e il capitale manifatturiero, sebbene le economie del mondo subirebbero una forte frenata senza il loro supporto vitale."
+  citation: ""
+  image: [ ]
+  seealso: ""
+- 
+  term: Terra preta
+  definition: "Particolare tipologia di suolo di origine antropogenica. Tipica del bacino amazzonico, la terra preta (nera dal portoghese) ha una colorazione molto scura, dovuta alla fertilizzazione avvenuta in periodo precolombiano, con materiale organico e carbone vegetale. Da alcuni studi scientifici risulta che queste terre abbiano capacità autorigeneranti, crescendo al ritmo di 1 cm l'anno per millenni."
+  citation: ""
+  image: [ ]
+  seealso: ""
+- 
+  term: Top Soil
+  definition: >
+    Strato superficiale del suolo, in media
+    i primi 20-30 cm. È quindi un fattore
+    molto importante nei termini di bonifica
+    delle aree inquinate, in quanto è la
+    principale via di esposizione per
+    contatto dermico, ingestione o
+    inalazione. Nella normativa tedesca è
+    il parametro di riferimento per le
+    analisi di rischio mirate a rendere
+    fruibile un’area.
+  citation: ""
+  image: [ ]
+  seealso: ""
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 

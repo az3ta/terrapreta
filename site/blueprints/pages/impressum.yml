@@ -1,0 +1,11 @@
+title: Impressum
+
+tabs:
+  main:
+    icon: text
+    columns:
+      left:
+        width: 1/2
+        fields:
+
+  seotab: seo

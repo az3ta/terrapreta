@@ -1,0 +1,235 @@
+Title: About
+
+----
+
+Intro: We are a nonprofit organization that studies and promotes Nature-based Solutions in collaboration with local communities and institutions. We study the most effective strategies to enhance mutual interactions between humans and other life forms, within urban and suburban environments.
+
+----
+
+Mission: We want to innovate the role of urban nature and change the way cities are designed: through integrated research and experimentation with participatory models for managing the commons.
+
+----
+
+What:
+
+— Organize and conduct ecosystem services analysis.
+— Research and implementation of Nature-Based Solution.
+— Facilitation and mediation between grassroots, public administration and institutions.
+— Environmental education and scientific dissemination.
+
+----
+
+Team:
+
+We are a multidisciplinary team with several areas of expertise, including: communication, graphic & interaction design, filmmaking, landscape & architecture, logistic, urban policy, research, software development and writing.
+
+Our group works remotely across Europe where we are building a network of partners. All team members have work experiences in both grassroot and professional environments.
+
+----
+
+Name:
+
+Terra preta (dark soil) is a special type of soil capable of self-healing. It is one of the earliest known compost: it originated around 2800 BCE in the Amazon rainforest from the decomposition of plants, mineral and animal remains accumulated at the edge of villages.
+An invisible infrastructure that generates a connection between the various elements that inhabit it, for us the starting point of a path to regenerate and restore the ecosystems that the city has so far forgotten.
+
+----
+
+Support:
+
+Our work is supported by private investors, institutions and grants. Being a nonprofi organization all the money we receive is directly allocated to our operations.
+
+Those who wish to support our organization can do so through the following methods:
+
+----
+
+Howmoney: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+What2: <ul><li>Sviluppo e attuazione di soluzioni basate sulla natura (NBS)</li><li>Organizzare e condurre l'analisi dei servizi ecosistemici</li><li>Facilitazione e mediazione tra comunità locali, amministrazione pubblica e istituzioni</li><li>Educazione ambientale e ricerca scientifica</li></ul>
+
+----
+
+Text: 
+
+----
+
+Main:
+
+- 
+  attrs: [ ]
+  columns:
+    - 
+      blocks:
+        - 
+          content:
+            text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Molestie nuncs non blandit massa enim nec dui nunc mattis. Viverra vitae congue eu consequat ac felis donec et odio. Blandit cursus risus at ultrices mi tempus imperdiet. Viverra suspendisse potenti nullam ac tortor vitae.</p><p></p>'
+          id: ec0af922-d10f-4bc4-b02f-9d448a9ddccd
+          isHidden: false
+          type: text
+        - 
+          content:
+            level: h2
+            text: Intro
+          id: a82dc305-721e-484d-872d-8c620288e8d0
+          isHidden: false
+          type: heading
+      id: fcc12a3b-bf23-4b60-93b5-685e0ecf1a90
+      width: 1/1
+  id: 309b72a6-95e3-4555-9d5d-f99a67144a64
+- 
+  attrs: [ ]
+  columns:
+    - 
+      blocks:
+        - 
+          content:
+            text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Molestie nuncs non blandit massa enim nec dui nunc mattis. Viverra vitae congue eu consequat ac felis donec et odio. Blandit cursus risus at ultrices mi tempus imperdiet. Viverra suspendisse potenti nullam ac tortor vitae.</p><p></p>'
+          id: 1bc7cafd-d1f0-44d4-99bc-3f60b8f22820
+          isHidden: false
+          type: text
+      id: ad55f353-e035-44b8-96e0-b1837025ad50
+      width: 1/1
+  id: a372140c-50e6-49d4-8ee7-261d6e43409c
+- 
+  attrs: [ ]
+  columns:
+    - 
+      blocks:
+        - 
+          content:
+            text: ""
+          id: f6eeb3bc-8ce2-45df-91cd-6c05761586f8
+          isHidden: false
+          type: list
+      id: f8edebec-dc2b-43a1-8803-892eb97b74fc
+      width: 1/1
+  id: ddc44387-f584-4798-8dbf-9a580048bf32

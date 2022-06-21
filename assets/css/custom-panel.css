@@ -1,0 +1,15 @@
+.k-tabs {
+  background-color: rgba(253, 95, 12, 0.2);
+}
+
+.k-header::before {
+  float: right;
+  content: "";
+  margin-top: 10px;
+  width: 150px;
+  height: 35px;
+  background-image: url("../icons/logo.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  clear: right;
+}

@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ABC Marfa Light */
+@font-face {
+  font-family: "MarfaLight";
+  src: url("../fonts/ABCMarfa-Light-Trial.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0020-007F;
+}
+
+/* ABC Marfa Light Italic */
+@font-face {
+  font-family: "MarfaLightItalic";
+  src: url("../fonts/ABCMarfa-LightItalic-Trial.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0020-007F;
+}
+
+/* ABC Marfa Bold */
+@font-face {
+  font-family: "MarfaBold";
+  src: url("../fonts/ABCMarfa-Bold-Trial.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0020-007F;
+}
+
+/* ABC Marfa Bold Italic */
+@font-face {
+  font-family: "MarfaBoldItalic";
+  src: url("../fonts/ABCMarfa-BoldItalic-Trial.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0020-007F;
+}
+
+/* fix typography */
+
+.font-settings {
+  font-feature-settings: "ss01" 1;
+}
+
+.circled-number {
+  font-feature-settings: "ss02" 1;
+}

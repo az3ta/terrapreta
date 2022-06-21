@@ -1,27 +1,24 @@
+const defaultTheme = require("tailwindcss/defaultTheme");
+
 module.exports = {
-	purge: [],
-	darkMode: false, // or 'media' or 'class'
-	theme: {
-		extend: {
-			colors: {
-				'goccia-green': '#567762',
-				'goccia-gold': '#ad966d',
-				'goccia-black': '#292728',
-			},
-			fontFamily: {
-				inter: [
-					'Inter',
-					'ui-sans-serif',
-					'system-ui',
-					'Helvetica',
-					'Arial',
-					'sans-serif',
-				],
-			},
-		},
-	},
-	variants: {
-		extend: {},
-	},
-	plugins: [],
+  mode: "jit",
+  content: ["./site/**/*.php"],
+  theme: {
+    extend: {
+      fontFamily: {
+        "marfa-light": ["MarfaLight", ...defaultTheme.fontFamily.sans],
+        "marfa-light-ita": [
+          "MarfaLightItalic",
+          ...defaultTheme.fontFamily.sans,
+        ],
+        "marfa-bold": ["MarfaBold", ...defaultTheme.fontFamily.sans],
+        "marfa-bold-ita": ["MarfaBoldItalic", ...defaultTheme.fontFamily.sans],
+      },
+      colors: {
+        "tp-green": "#23e628",
+        "tp-orange": "#fd5f0c",
+      },
+    },
+  },
+  plugins: [],
 };

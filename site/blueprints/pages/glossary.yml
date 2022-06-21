@@ -1,0 +1,33 @@
+title: Glossary
+
+tabs:
+  main:
+    icon: text
+    fields:
+      glossary:
+        type: structure
+        label: false
+        sortBy: term asc
+        fields:
+          term:
+            type: text
+            required: true
+          definition:
+            type: textarea
+            required: true
+          citation:
+            type: text
+          image:
+            type: files
+            layout: cards
+            size: large
+            info: "{{ file.dimensions }}"
+          seeAlso:
+            type: multiselect
+            label: See Also
+            options: query
+            query:
+              fetch: page.glossary.toStructure
+              text: "{{ structureItem.term.title }}"
+
+  seotab: seo
